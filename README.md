@@ -6,10 +6,13 @@ Node 18 and latest React
 ```sh
 cd pokedex
 npm install
-npm run validate
 npm run dev
 ```
 
+# Testing
+```sh
+npm run test
+```
 # TODO
 * Image loading in pokemon list
 * Concurrent environment
